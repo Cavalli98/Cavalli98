@@ -15,12 +15,12 @@
 I'm **`Dario Cavalli`** a 25 years old Artificial Intelligence Engineering student from 🇮🇹 "Italy",
 and a wannabe Startupper with deep passion for Innovation and Technologies.
 
-- 👀 I’m looking to collaborate on **Open-Source** Projects.
-- 🐍 I’m looking to collaborate on **Python** projects.
-- 👨‍💻 All of my projects are available at [https://github.com/N3dal](https://github.com/N3dal)
-- 💬 Ask me about **Electromagnetic** or **Python**.
-- 🐧 I like **GNU/Linux**.
-- 📫 How to reach me **nedalxzo@gmail.com**
+- 🧑‍🎓 I'm an Italian student, currently attending a Master's Degree in Computer Science and Engineering, curriculum Artificial Intelligence, at Politecnico di Milano.
+- 🏯 I lived 6 months in Japan, studying and researching in Artificial Intelligence, Parallel Programming and Entrepreneurship.
+- 👨‍💻 All of my projects are available at [https://github.com/Cavalli98](https://github.com/Cavalli98)
+- 💬 Ask me about **Python** or **Roman History**.
+- 🐧 I like **Computer Vision**, **Machine Learning** and **Software Engineering**.
+- 📫 How to reach me **dariocavalli13@gmail.com**.
 
 
 <!-- to print thick horizontal line -->
@@ -55,9 +55,12 @@ class Dario(Cavalli):
          "Innovation and Technologies",
          "Artificial Intelligence",
          "Computer Sciences",
-         "Computer Networks and Networking",
+         "Computer Networks and Networking events",
+         "Software Engineering",
          "Startups",
          "Fitness and Sports",
+         "Geopolitics",
+         "History",
          ]
 
    def use(self, tool):
