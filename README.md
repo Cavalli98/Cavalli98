@@ -16,7 +16,7 @@ I'm **`Dario Cavalli`** a 25 years old Artificial Intelligence Engineering stude
 and a wannabe Startupper with deep passion for Innovation and Technologies.
 
 - 🧑‍🎓 I'm an Italian student, currently attending a Master's Degree in Computer Science and Engineering, curriculum Artificial Intelligence, at Politecnico di Milano.
-- 🏯 I lived 6 months in Japan, studying and researching in Artificial Intelligence, Parallel Programming and Entrepreneurship.
+- 🎎 I lived 6 months in Japan, studying and researching in Artificial Intelligence, Parallel Programming and Entrepreneurship.
 - 👨‍💻 All of my projects are available at [https://github.com/Cavalli98](https://github.com/Cavalli98)
 - 💬 Ask me about **Python** or **Roman History**.
 - 🐧 I like **Computer Vision**, **Machine Learning** and **Software Engineering**.
