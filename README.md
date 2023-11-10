@@ -3,7 +3,6 @@
 ## Hi there 👋, I'm Dario!
 [![GitHub Starts](https://img.shields.io/github/stars/Cavalli98?label=github&color=181717&logo=github&style=for-the-badge)](https://github.com/Cavalli98)
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](http://www.linkedin.com/in/dario-cavalli-03111710)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dariocavalli13@gmail.com)
 
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
@@ -20,7 +19,7 @@ and a wannabe Startupper with deep passion for Innovation and Technologies.
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/Cavalli98?tab=repositories)
 - 💬 Ask me about **Python** or **Roman History**.
 - 🐧 I like **Computer Vision**, **Machine Learning** and **Software Engineering**.
-- 📫 How to reach me **dariocavalli13@gmail.com**.
+- 📫 How to reach me on LinkedIn [LinkedIn](http://www.linkedin.com/in/dario-cavalli-03111710).
 
 
 <!-- to print thick horizontal line -->
