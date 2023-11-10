@@ -88,6 +88,9 @@ class Dario(Cavalli):
 ```
 ---
 
+> "_Fight for what you believe in. You will lose, as I have lost, all the battles. But only one will you be able to win. The one you engage in every morning, in front of the mirror_.”
+> ~ [Indro Montanelli](https://en.wikipedia.org/wiki/Indro_Montanelli)
+
 #
 <p align="center">
 <a href="https://Cavalli98.github.io/" target="blank"><img src="https://github.com/Cavalli98/Cavalli98/blob/main/assets/shinzou.gif" /></a>
