@@ -88,11 +88,6 @@ class Dario(Cavalli):
 ```
 ---
 
-<!--- [![Cavalli98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cavalli98&show_icnos=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- to draw horizontal line -->
-
 #
 <p align="center">
 <a href="https://Cavalli98.github.io/" target="blank"><img src="https://github.com/Cavalli98/Cavalli98/blob/main/assets/shinzou.gif" /></a>
