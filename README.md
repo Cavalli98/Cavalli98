@@ -19,7 +19,7 @@ and a wannabe Startupper with deep passion for Innovation and Technologies.
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/Cavalli98?tab=repositories)
 - 💬 Ask me about **Python** or **Roman History**.
 - 🐧 I like **Computer Vision**, **Machine Learning** and **Software Engineering**.
-- 📫 How to reach me on LinkedIn [LinkedIn](http://www.linkedin.com/in/dario-cavalli-03111710).
+- 📫 How to reach me on LinkedIn [LinkedIn](http://www.linkedin.com/in/dario-cavalli).
 
 
 <!-- to print thick horizontal line -->
