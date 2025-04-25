@@ -11,14 +11,14 @@
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
 
-I'm **`Dario Cavalli`** a 25 years old Artificial Intelligence Engineering student from 🇮🇹 "Italy",
+I'm **`Dario Cavalli`** a 26 years old Artificial Intelligence / Software Engineer from Italy,
 and a wannabe Startupper with deep passion for Innovation and Technologies.
 
-- 🧑‍🎓 I'm an Italian student, currently attending a Master's Degree in Computer Science and Engineering, curriculum Artificial Intelligence, at Politecnico di Milano.
+- 💼 Currently I am a Software Engineer at [Meta](https://www.meta.com/), with a focus on Agentic AI and GenAI.
+- 🎓 I have a Bachelor's and a Master's Degree in Computer Science and Engineering, curriculum Artificial Intelligence.
 - 🎎 I lived 6 months in Japan, studying and researching in Artificial Intelligence, Parallel Programming and Entrepreneurship.
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/Cavalli98?tab=repositories)
-- 💬 Ask me about **Python** or **Roman History**.
-- 🐧 I like **Computer Vision**, **Machine Learning** and **Software Engineering**.
+- 💬 Ask me anything about **Roman History** or **Geopolitics**.
 - 📫 How to reach me on LinkedIn [LinkedIn](http://www.linkedin.com/in/dario-cavalli).
 
 
@@ -64,13 +64,13 @@ class Dario(Cavalli):
 
    def use(self, tool):
       """use one of my tools or use bunch of them."""
-      return self.tools[tool]
+      return self.TOOLS[tool]
 
 
    def work(self):
       """"""
       while not WORK_DONE:
-         # keep work.
+         # keep working
          self.use(tool)
 
       return WORK_DONE
@@ -78,7 +78,7 @@ class Dario(Cavalli):
 
    def __len__(self):
       """Fun Fact"""
-      return 181 # cm
+      return 175 # cm
 
 
    def __repr__(self):
